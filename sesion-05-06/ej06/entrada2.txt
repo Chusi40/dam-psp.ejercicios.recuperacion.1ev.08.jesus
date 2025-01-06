@@ -1,0 +1,3 @@
+ Este es un archivo de ejemplo.
+ Contiene algunas palabras que tienen la letra 'a'.
+ Este archivo es para pruebas de concurrencia
